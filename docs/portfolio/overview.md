@@ -39,6 +39,7 @@
 3. [실행한 검증과 한계](verification.md)
 4. [31개 제출 기준의 현재 상태](acceptance-matrix.md)
 5. [제출 묶음과 남은 작업](submission.md)
+6. [제출 후보 카드3개와 권리·검수](final-cards/README.md)
 
 ## 공개본 관리 규칙
 

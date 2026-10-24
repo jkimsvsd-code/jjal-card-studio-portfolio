@@ -4,6 +4,8 @@
 
 [편집기 열기](https://jjal-card-studio-three.vercel.app/) · [포트폴리오](docs/portfolio/overview.md) · [기술 문서](docs/README.md)
 
+[제출 안내](docs/portfolio/submission.md) · [새로 제작한 카드 3장과 권리·검수 기록](docs/portfolio/final-cards/README.md)
+
 이 저장소는 `jkimsvsd-code`가 관리하는 공개 제출용 사본이다. 개발의 원본은 Private에 유지하고, 검토한 파일만 **Private → Public 한 방향**으로 내보낸다. 공개 저장소에서는 직접 수정·커밋·병합하지 않는다. 변경은 원본에서 검증한 뒤 다시 내보낸다. [관리 규칙](CONTRIBUTING.md)을 따른다.
 
 ## 화면
