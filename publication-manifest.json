@@ -929,11 +929,11 @@
       "sourceRole": "product"
     },
     {
-      "bytes": 6824,
+      "bytes": 6877,
       "method": "copy",
       "path": "docs/portfolio/acceptance-matrix.md",
-      "sha256": "d2392db42cfdedec5cad539405c2da6e63b001d053e0d15bc294f7aa73a1656e",
-      "sourceCommit": "aa0ab254f8c96c0dfc8fef8aca50c8f2cf228fee",
+      "sha256": "5cbf091c75be10e7f65e6dde591ac59fc76afc3d6e3d79b04f910261918ff43f",
+      "sourceCommit": "fe398321c93ebbfb80ebe1ddadf5ddcdf2f78809",
       "sourcePath": "10-portfolio-source/portfolio/acceptance-matrix.md",
       "sourceRole": "records"
     },
@@ -942,7 +942,7 @@
       "method": "copy",
       "path": "docs/portfolio/architecture.md",
       "sha256": "4f32b781f0ad8bf9f3e5a1ef764320b8b4f2a10d083396b286201f1a88032421",
-      "sourceCommit": "aa0ab254f8c96c0dfc8fef8aca50c8f2cf228fee",
+      "sourceCommit": "fe398321c93ebbfb80ebe1ddadf5ddcdf2f78809",
       "sourcePath": "10-portfolio-source/portfolio/architecture.md",
       "sourceRole": "records"
     },
@@ -951,7 +951,7 @@
       "method": "copy",
       "path": "docs/portfolio/assets/editor-desktop.png",
       "sha256": "4efd387557cb94df2c3188e369a0e1cd1d333e1ef7bc308951569cc92f12e015",
-      "sourceCommit": "aa0ab254f8c96c0dfc8fef8aca50c8f2cf228fee",
+      "sourceCommit": "fe398321c93ebbfb80ebe1ddadf5ddcdf2f78809",
       "sourcePath": "10-portfolio-source/portfolio/assets/editor-desktop.png",
       "sourceRole": "records"
     },
@@ -960,7 +960,7 @@
       "method": "copy",
       "path": "docs/portfolio/assets/editor-mobile.png",
       "sha256": "6f90e59b723f065e3d190baa50602dae90d85547c1a70325c9b10d343ba08be3",
-      "sourceCommit": "aa0ab254f8c96c0dfc8fef8aca50c8f2cf228fee",
+      "sourceCommit": "fe398321c93ebbfb80ebe1ddadf5ddcdf2f78809",
       "sourcePath": "10-portfolio-source/portfolio/assets/editor-mobile.png",
       "sourceRole": "records"
     },
@@ -969,16 +969,16 @@
       "method": "copy",
       "path": "docs/portfolio/decisions.md",
       "sha256": "2184cf42934a52d281d1ffe96b12df5b9ee4723b36d06b05a37cc2d9c1a0146d",
-      "sourceCommit": "aa0ab254f8c96c0dfc8fef8aca50c8f2cf228fee",
+      "sourceCommit": "fe398321c93ebbfb80ebe1ddadf5ddcdf2f78809",
       "sourcePath": "10-portfolio-source/portfolio/decisions.md",
       "sourceRole": "records"
     },
     {
-      "bytes": 5261,
+      "bytes": 5314,
       "method": "copy",
       "path": "docs/portfolio/final-cards/README.md",
-      "sha256": "8b2e0e364d9020566e1f6a515deb1b00ac72694f314d666eca6e2ba6c0bdd4e4",
-      "sourceCommit": "aa0ab254f8c96c0dfc8fef8aca50c8f2cf228fee",
+      "sha256": "abb56a12accbebb45eb9578ee31a6c920a6835ddd8f567289737752ef640fb5b",
+      "sourceCommit": "fe398321c93ebbfb80ebe1ddadf5ddcdf2f78809",
       "sourcePath": "10-portfolio-source/portfolio/final-cards/README.md",
       "sourceRole": "records"
     },
@@ -987,7 +987,7 @@
       "method": "copy",
       "path": "docs/portfolio/final-cards/card-01-rest.png",
       "sha256": "01aa1ee18ac30c7dced5b79edf94d627582303e1a5325504ee6e39b1701de69e",
-      "sourceCommit": "aa0ab254f8c96c0dfc8fef8aca50c8f2cf228fee",
+      "sourceCommit": "fe398321c93ebbfb80ebe1ddadf5ddcdf2f78809",
       "sourcePath": "10-portfolio-source/portfolio/final-cards/card-01-rest.png",
       "sourceRole": "records"
     },
@@ -996,7 +996,7 @@
       "method": "copy",
       "path": "docs/portfolio/final-cards/card-02-recharge.png",
       "sha256": "09df63325fd7626b017e543064acdf8d0cffac6786b87791edb58be356d00657",
-      "sourceCommit": "aa0ab254f8c96c0dfc8fef8aca50c8f2cf228fee",
+      "sourceCommit": "fe398321c93ebbfb80ebe1ddadf5ddcdf2f78809",
       "sourcePath": "10-portfolio-source/portfolio/final-cards/card-02-recharge.png",
       "sourceRole": "records"
     },
@@ -1005,7 +1005,7 @@
       "method": "copy",
       "path": "docs/portfolio/final-cards/card-03-own-pace.png",
       "sha256": "617e67643d11a8c1f6f2d282e824c80027a35ae5d5ba05c18d470664a71940b7",
-      "sourceCommit": "aa0ab254f8c96c0dfc8fef8aca50c8f2cf228fee",
+      "sourceCommit": "fe398321c93ebbfb80ebe1ddadf5ddcdf2f78809",
       "sourcePath": "10-portfolio-source/portfolio/final-cards/card-03-own-pace.png",
       "sourceRole": "records"
     },
@@ -1013,35 +1013,35 @@
       "bytes": 4182,
       "method": "copy",
       "path": "docs/portfolio/overview.md",
-      "sha256": "8e6f7f1a7112ed8e9c69d10db6268ab183edeb093f4149dac0414f9949f66d5c",
-      "sourceCommit": "aa0ab254f8c96c0dfc8fef8aca50c8f2cf228fee",
+      "sha256": "fcd3e76dae975ecf7a0b32787b866000d1914c77dd152ff6b62dedce80b6e984",
+      "sourceCommit": "fe398321c93ebbfb80ebe1ddadf5ddcdf2f78809",
       "sourcePath": "10-portfolio-source/portfolio/overview.md",
       "sourceRole": "records"
     },
     {
-      "bytes": 5510,
+      "bytes": 5745,
       "method": "copy",
       "path": "docs/portfolio/submission.md",
-      "sha256": "0086009dc30c706d1614f04cb607c1679a95f188afbcd65edcf68c48c633dc5f",
-      "sourceCommit": "aa0ab254f8c96c0dfc8fef8aca50c8f2cf228fee",
+      "sha256": "7f0f3b9930970c5dc1f9e7fc0bcca9734e409f418aeef1e170c6d4bbafd4ac4a",
+      "sourceCommit": "fe398321c93ebbfb80ebe1ddadf5ddcdf2f78809",
       "sourcePath": "10-portfolio-source/portfolio/submission.md",
       "sourceRole": "records"
     },
     {
-      "bytes": 4759,
+      "bytes": 5535,
       "method": "copy",
       "path": "docs/portfolio/verification-summary.json",
-      "sha256": "19f55234b7bf5943cf05e6edcec3d2ad30e77163b33e56a523f0c77f5a9e84bf",
-      "sourceCommit": "aa0ab254f8c96c0dfc8fef8aca50c8f2cf228fee",
+      "sha256": "2ba8b41eb7af5512c4a4d6cbeacc5bd421b65f8312fe65e20319b1c3a6204384",
+      "sourceCommit": "fe398321c93ebbfb80ebe1ddadf5ddcdf2f78809",
       "sourcePath": "10-portfolio-source/portfolio/verification-summary.json",
       "sourceRole": "records"
     },
     {
-      "bytes": 7104,
+      "bytes": 7196,
       "method": "copy",
       "path": "docs/portfolio/verification.md",
-      "sha256": "a9aa713f6e33c1e09bbbef488c777e614aefe560b1d0b3714f54d80cd48cd11e",
-      "sourceCommit": "aa0ab254f8c96c0dfc8fef8aca50c8f2cf228fee",
+      "sha256": "61399fb27d432d75b3258f0ba7b1801e64499d035b7ee00c0fe802229484f235",
+      "sourceCommit": "fe398321c93ebbfb80ebe1ddadf5ddcdf2f78809",
       "sourcePath": "10-portfolio-source/portfolio/verification.md",
       "sourceRole": "records"
     },
@@ -2445,7 +2445,7 @@
   "publicRepository": "jkimsvsd-code/jjal-card-studio-portfolio",
   "sourceCommits": {
     "product": "394af73d9f00703533b5c5999ef78423de30cae2",
-    "records": "aa0ab254f8c96c0dfc8fef8aca50c8f2cf228fee"
+    "records": "fe398321c93ebbfb80ebe1ddadf5ddcdf2f78809"
   },
   "version": 1
 }
