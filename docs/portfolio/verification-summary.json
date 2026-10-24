@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "applicationURL": "https://jjal-card-studio-three.vercel.app/",
+  "deployedApplicationSource": "72bd86a3aa1a75fefb6924414295232fe85d5943",
+  "localVerification": {
+    "unitTests": 673,
+    "finalUniqueBrowserCases": 9,
+    "actualPngFiles": 35,
+    "comparedRGBAChannels": 115361280,
+    "differentChannels": 0,
+    "initialFailurePreserved": true,
+    "selectedRecheckExplained": true
+  },
+  "publicVerification": {
+    "profiles": [
+      "Desktop 1440x960",
+      "Pixel 7 browser emulation"
+    ],
+    "passedSteps": 18,
+    "actualPngFiles": 4,
+    "comparedRGBAChannels": 14584320,
+    "differentChannels": 0,
+    "consoleErrors": 0,
+    "pageErrors": 0,
+    "httpErrors": 0,
+    "anonymousStaticFilesVerified": 44,
+    "privatePaths404": 15,
+    "initialFailurePreserved": true,
+    "testOnlyCorrection": "Integrated tool deck count and visible details navigation",
+    "physicalDeviceVerification": false
+  },
+  "screenshots": [
+    {
+      "path": "assets/editor-desktop.png",
+      "sha256": "4efd387557cb94df2c3188e369a0e1cd1d333e1ef7bc308951569cc92f12e015",
+      "pngChunks": [
+        "IDAT",
+        "IEND",
+        "IHDR"
+      ],
+      "personalMetadataFound": false,
+      "scope": "Anonymous synthetic demo UI, browser-generated screenshot"
+    },
+    {
+      "path": "assets/editor-mobile.png",
+      "sha256": "6f90e59b723f065e3d190baa50602dae90d85547c1a70325c9b10d343ba08be3",
+      "pngChunks": [
+        "IDAT",
+        "IEND",
+        "IHDR"
+      ],
+      "personalMetadataFound": false,
+      "scope": "Anonymous synthetic demo UI, browser-generated screenshot"
+    }
+  ],
+  "publicationScope": "Reviewed source and portfolio summaries; raw conversations, original assignment, private logs and deployment account identifiers excluded"
+}
